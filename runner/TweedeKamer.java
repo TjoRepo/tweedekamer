@@ -8,6 +8,8 @@ import personen.Persoon;
 import personen.TweedeKamerlid;
 import data.Data;
 
+// test aanpassing
+
 public class TweedeKamer {
     private ArrayList<ArrayList<Persoon>> personen;
 
